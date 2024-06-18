@@ -38,7 +38,7 @@ app.on('error', (err) => {
 listenOnPort(port);
 
 // Bot config token 
-let token = '7283216229:AAGPFEanfgJjYzaxCPg0GYm6_vMH5esPEUMThis bot is specially designed to help you download TikTok videos automatically. Just send the URL of the TikTok video you want to download, and this bot will complete the task quickly and quickly'  //replace this part with your bot token
+let token = '7283216229:AAGPFEanfgJjYzaxCPg0GYm6_vMH5esPEUM'  //replace this part with your bot token
 const bot = new Telegraf(token, { polling: true });
 let Start = new Date();
 
