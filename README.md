@@ -10,7 +10,7 @@ To get started with the Telegram Bot Tiktok Downloader, follow the steps below:
 1. Clone this repository to your local machine.
 
 ```shell
-$ git clone https://github.com/BOTCAHX/tiktok-tele-bot.git
+$ git clone https://github.com/RoxyXploit777/Tiktok
 ```
 
 2. Navigate to the project directory.
